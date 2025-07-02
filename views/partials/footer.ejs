@@ -1,0 +1,13 @@
+<nav class="navbarFooter">
+    <ul>
+        <% navItems.forEach(item => { %>
+            <li>
+                <a href="<%= item.path %>" class="footer-link <%= currentPath === item.path ? 'active' : '' %>" 
+                   data-active-image="<%= item.activeImage %>" 
+                   data-inactive-image="<%= item.inactiveImage %>">
+                    <img src="<%= currentPath === item.path ? item.activeImage : item.inactiveImage %>" alt="<%= item.label %>">
+                </a>
+            </li>
+        <% }); %>
+    </ul>
+</nav>
