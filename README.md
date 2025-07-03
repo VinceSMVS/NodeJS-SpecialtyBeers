@@ -8,10 +8,9 @@ This project offers users functionalities such as **authentication**, **user pro
 
 ---
 # Video of project
-![ScreenShot](https://github.com/user-attachments/assets/513067f0-d6b1-45fd-ae4c-928d0bf4bcf4)
+[![ScreenShot](https://github.com/user-attachments/assets/513067f0-d6b1-45fd-ae4c-928d0bf4bcf4)](https://vimeo.com/1098445265?share=copy)
 
 
-Bekijk een korte walkthrough van de applicatie op (images/ScreenShot)(https://vimeo.com/1098445265?share=copy).
 
 
 ## Project Overview & Key Learning Outcomes
