@@ -10,7 +10,7 @@ This project offers users functionalities such as **authentication**, **user pro
 # Video of project
 
 
-Bekijk een korte walkthrough van de applicatie op [Vimeo](https://vimeo.com/1098445265?share=copy).
+Bekijk een korte walkthrough van de applicatie op (images/ScreenShot)(https://vimeo.com/1098445265?share=copy).
 
 
 ## Project Overview & Key Learning Outcomes
