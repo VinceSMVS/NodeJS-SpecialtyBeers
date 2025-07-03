@@ -7,6 +7,9 @@
 This project offers users functionalities such as **authentication**, **user profiles**, **beer discovery**, a **personalized recommendation quiz**, and a **social feed** for sharing ratings and reviews.
 
 ---
+# Video of project
+[![Bekijk de demo video van SpecialtyBeers App]]((https://vimeo.com/1098445265?share=copy)
+)
 
 ## Project Overview & Key Learning Outcomes
 
