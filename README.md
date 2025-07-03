@@ -57,7 +57,7 @@ To get a local copy up and running, follow these simple steps.
     ```
 4.  **Start the server:**
     ```bash
-    npm start
+    npm run devStart
     ```
     The application should now be running on `http://localhost:3000` (or whatever port is configured).
 
